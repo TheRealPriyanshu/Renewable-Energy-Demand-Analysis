@@ -18,7 +18,6 @@ This project performs a descriptive analysis of electricity demand, solar genera
 * Solar power generation analysis
 * Wind power generation analysis
 * Renewable energy contribution analysis
-* Correlation analysis between demand, solar, and wind generation
 * Peak demand period analysis
 * Data visualization using charts and graphs
 
@@ -40,11 +39,6 @@ Based on the analyzed data, renewable energy generation alone is currently insuf
 ## Power Distribution in Whole Day
 
 ![Power Distribution](Power_Distribution_In_Whole_Day.png)
-
-
-## Renewable Energy Contribution
-
-![RE Contribution](total_RE_power_in_different_period.png)
 
 ## Author
 
