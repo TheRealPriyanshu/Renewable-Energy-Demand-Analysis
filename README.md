@@ -39,7 +39,7 @@ Based on the analyzed data, renewable energy generation alone is currently insuf
 
 ## Power Distribution in Whole Day
 
-![Power Distribution](Power Distribution In Whole Day.png)
+![Power Distribution](Power_Distribution_In_Whole_Day.png)
 
 ## Solar and Wind Generation vs Time
 
