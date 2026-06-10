@@ -44,7 +44,7 @@ Based on the analyzed data, renewable energy generation alone is currently insuf
 
 ## Renewable Energy Contribution
 
-![RE Contribution](total_RE_power_in_different _period.png)
+![RE Contribution](total_RE_power_in_different_period.png)
 
 ## Author
 
