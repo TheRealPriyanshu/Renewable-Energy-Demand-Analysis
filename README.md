@@ -33,6 +33,22 @@ This project performs a descriptive analysis of electricity demand, solar genera
 
 Based on the analyzed data, renewable energy generation alone is currently insufficient to meet total electricity demand. Conventional energy sources remain the primary contributors to power supply. Increasing renewable energy capacity and storage infrastructure would be necessary to reduce dependence on conventional generation.
 
+## Dataset Preview
+
+![Dataset](data_sheet.png)
+
+## Power Distribution in Whole Day
+
+![Power Distribution](Power Distribution In Whole Day.png)
+
+## Solar and Wind Generation vs Time
+
+![Solar Wind](solar_power&wind_power_VS_Time.png)
+
+## Renewable Energy Contribution
+
+![RE Contribution](totac_RE_power_in_different_period.png)
+
 ## Author
 
 Priyanshu Dash
