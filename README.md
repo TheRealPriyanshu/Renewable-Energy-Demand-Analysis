@@ -41,13 +41,9 @@ Based on the analyzed data, renewable energy generation alone is currently insuf
 
 ![Power Distribution](Power_Distribution_In_Whole_Day.png)
 
-## Solar and Wind Generation vs Time
-
-![Solar Wind](solar_power&wind_power_VS_Time.png)
-
 ## Renewable Energy Contribution
 
-![RE Contribution](totac_RE_power_in_different_period.png)
+![RE Contribution](tota;_RE_power_in_different_period.png)
 
 ## Author
 
